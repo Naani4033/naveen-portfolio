@@ -603,3 +603,6 @@ footer{
         width: 100%;
     }
 }
+.scroll-btn{
+    display: none;
+}
